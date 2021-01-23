@@ -1,0 +1,58 @@
+ fieldset 
+    {
+      background-color: rgb(255, 246, 205);
+      border: 2px solid rgb(233, 69, 0);
+      /*float:left; */
+      margin: 10px 0px 100px 2.5%;
+      width: 46%;
+
+    }
+
+  legend 
+    {
+      background-color: rgb(233, 69, 0);
+      color: white;
+      padding: 3px 0px;
+      text-indent: 5px;
+      width: 100%;
+    }
+
+  label 
+    {
+      clear: left;
+      display: block;
+      float: left;
+      font-size: 0.9em;
+      margin: 7px 4% 7px 5px;
+      width: 40%;
+    }
+
+  input 
+    {
+      display: block;
+      float: left;
+      font-size: 0.9em;
+      margin: 7px 0px;
+      width: 50%;
+    }
+
+  select 
+    {
+      display: block;
+      float: left;
+      font-size: 0.9em;
+      margin: 7px 0px;
+
+    }
+
+
+  li 
+    {
+        font-size: 15px;
+        font-weight: bold;
+        color: blue;
+        margin: 10px;
+    }
+
+
+
